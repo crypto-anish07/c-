@@ -1,0 +1,14 @@
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp4/bin/Debug/net8.0/ConsoleApp4
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp4/bin/Debug/net8.0/ConsoleApp4.deps.json
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp4/bin/Debug/net8.0/ConsoleApp4.runtimeconfig.json
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp4/bin/Debug/net8.0/ConsoleApp4.dll
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp4/bin/Debug/net8.0/ConsoleApp4.pdb
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp4/obj/Debug/net8.0/ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp4/obj/Debug/net8.0/ConsoleApp4.AssemblyInfoInputs.cache
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp4/obj/Debug/net8.0/ConsoleApp4.AssemblyInfo.cs
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp4/obj/Debug/net8.0/ConsoleApp4.csproj.CoreCompileInputs.cache
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp4/obj/Debug/net8.0/ConsoleApp4.dll
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp4/obj/Debug/net8.0/refint/ConsoleApp4.dll
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp4/obj/Debug/net8.0/ConsoleApp4.pdb
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp4/obj/Debug/net8.0/ConsoleApp4.genruntimeconfig.cache
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp4/obj/Debug/net8.0/ref/ConsoleApp4.dll

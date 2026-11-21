@@ -1,0 +1,22 @@
+﻿@model string
+
+@if (!string.IsNullOrWhiteSpace(Model))
+{
+    <h2>Session Active</h2>
+    <p>Hello <strong>@Model</strong>, your details are being remembered on the server for this browsing session.</p>
+    <p><em>This data will disappear automatically if you close the browser or stay idle for too long.</em></p>
+    @Html.ActionLink("End Session", "RemoveSession")
+}
+else
+{
+    <h2>Start a New Session</h2>
+    <form asp-action="Index">
+        <span>No active session found. Please enter your name to begin one:</span><br />
+        <label>Name:</label>
+        <input type="text" name="userName" id="userName" />
+
+        <div class="form-group">
+            <input type="submit" value="Start Session" class="btn btn-primary" />
+        </div>
+    </form>
+}

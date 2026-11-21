@@ -1,0 +1,10 @@
+﻿@model StudentRegistrationApp.Models.Student
+
+<h2>Registration Successful</h2>
+
+<p>Name: @Model.Name</p>
+<p>Age: @Model.Age</p>
+<p>Email: @Model.Email</p>
+<p>Date of Birth: @Model.DateOfBirth.ToShortDateString()</p>
+
+<a asp-action="Index">Register Another Student</a>

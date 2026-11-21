@@ -1,0 +1,13 @@
+﻿<h2>Result Page</h2>
+
+<h3>Unsafe Output (Vulnerable to XSS)</h3>
+<div style="border:1px solid red; padding:10px;">
+    @Html.Raw(ViewBag.UserComment)
+</div>
+
+<h3>Safe Output (Razor Auto-Encoded)</h3>
+<div style="border:1px solid green; padding:10px;">
+    @ViewBag.UserComment
+</div>
+
+<a asp-action="Index">Try Again</a>

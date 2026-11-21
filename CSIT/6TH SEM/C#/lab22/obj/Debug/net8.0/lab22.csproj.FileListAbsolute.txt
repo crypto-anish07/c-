@@ -1,0 +1,14 @@
+/home/anish07/CSIT/6TH SEM/C#/lab22/bin/Debug/net8.0/lab22
+/home/anish07/CSIT/6TH SEM/C#/lab22/bin/Debug/net8.0/lab22.deps.json
+/home/anish07/CSIT/6TH SEM/C#/lab22/bin/Debug/net8.0/lab22.runtimeconfig.json
+/home/anish07/CSIT/6TH SEM/C#/lab22/bin/Debug/net8.0/lab22.dll
+/home/anish07/CSIT/6TH SEM/C#/lab22/bin/Debug/net8.0/lab22.pdb
+/home/anish07/CSIT/6TH SEM/C#/lab22/obj/Debug/net8.0/lab22.GeneratedMSBuildEditorConfig.editorconfig
+/home/anish07/CSIT/6TH SEM/C#/lab22/obj/Debug/net8.0/lab22.AssemblyInfoInputs.cache
+/home/anish07/CSIT/6TH SEM/C#/lab22/obj/Debug/net8.0/lab22.AssemblyInfo.cs
+/home/anish07/CSIT/6TH SEM/C#/lab22/obj/Debug/net8.0/lab22.csproj.CoreCompileInputs.cache
+/home/anish07/CSIT/6TH SEM/C#/lab22/obj/Debug/net8.0/lab22.dll
+/home/anish07/CSIT/6TH SEM/C#/lab22/obj/Debug/net8.0/refint/lab22.dll
+/home/anish07/CSIT/6TH SEM/C#/lab22/obj/Debug/net8.0/lab22.pdb
+/home/anish07/CSIT/6TH SEM/C#/lab22/obj/Debug/net8.0/lab22.genruntimeconfig.cache
+/home/anish07/CSIT/6TH SEM/C#/lab22/obj/Debug/net8.0/ref/lab22.dll

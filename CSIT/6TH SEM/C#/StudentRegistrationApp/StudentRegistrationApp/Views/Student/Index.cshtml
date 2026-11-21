@@ -1,0 +1,43 @@
+﻿@model StudentRegistrationApp.Models.Student
+
+<h2>Student Registration Form</h2>
+
+<form asp-action="Index" method="post">
+    <div>
+        <label>Name:</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+    <div>
+        <label>Age:</label>
+        <input asp-for="Age" />
+        <span asp-validation-for="Age" style="color:red"></span>
+    </div>
+    <div>
+        <label>Email:</label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email" style="color:red"></span>
+    </div>
+    <div>
+        <label>Date of Birth:</label>
+        <input asp-for="DateOfBirth" />
+        <span asp-validation-for="DateOfBirth" style="color:red"></span>
+    </div>
+    <div>
+        <label>Password:</label>
+        <input asp-for="Password" />
+        <span asp-validation-for="Password" style="color:red"></span>
+    </div>
+    <div>
+        <label>Confirm Password:</label>
+        <input asp-for="ConfirmPassword" />
+        <span asp-validation-for="ConfirmPassword" style="color:red"></span>
+    </div>
+    <button type="submit">Register</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

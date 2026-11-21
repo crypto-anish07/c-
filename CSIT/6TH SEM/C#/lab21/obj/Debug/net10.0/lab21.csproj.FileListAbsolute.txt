@@ -1,0 +1,14 @@
+C:\Users\Ritesh\Desktop\asp.net\lab21\lab21\bin\Debug\net10.0\lab21.exe
+C:\Users\Ritesh\Desktop\asp.net\lab21\lab21\bin\Debug\net10.0\lab21.deps.json
+C:\Users\Ritesh\Desktop\asp.net\lab21\lab21\bin\Debug\net10.0\lab21.runtimeconfig.json
+C:\Users\Ritesh\Desktop\asp.net\lab21\lab21\bin\Debug\net10.0\lab21.dll
+C:\Users\Ritesh\Desktop\asp.net\lab21\lab21\bin\Debug\net10.0\lab21.pdb
+C:\Users\Ritesh\Desktop\asp.net\lab21\lab21\obj\Debug\net10.0\lab21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritesh\Desktop\asp.net\lab21\lab21\obj\Debug\net10.0\lab21.AssemblyInfoInputs.cache
+C:\Users\Ritesh\Desktop\asp.net\lab21\lab21\obj\Debug\net10.0\lab21.AssemblyInfo.cs
+C:\Users\Ritesh\Desktop\asp.net\lab21\lab21\obj\Debug\net10.0\lab21.csproj.CoreCompileInputs.cache
+C:\Users\Ritesh\Desktop\asp.net\lab21\lab21\obj\Debug\net10.0\lab21.dll
+C:\Users\Ritesh\Desktop\asp.net\lab21\lab21\obj\Debug\net10.0\refint\lab21.dll
+C:\Users\Ritesh\Desktop\asp.net\lab21\lab21\obj\Debug\net10.0\lab21.pdb
+C:\Users\Ritesh\Desktop\asp.net\lab21\lab21\obj\Debug\net10.0\lab21.genruntimeconfig.cache
+C:\Users\Ritesh\Desktop\asp.net\lab21\lab21\obj\Debug\net10.0\ref\lab21.dll

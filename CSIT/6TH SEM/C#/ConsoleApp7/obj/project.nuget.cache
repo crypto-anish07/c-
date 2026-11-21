@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MvixInQFnms=",
+  "success": true,
+  "projectFilePath": "/home/anish07/CSIT/6TH SEM/C#/ConsoleApp7/ConsoleApp7.csproj",
+  "expectedPackageFiles": [
+    "/home/anish07/.nuget/packages/microsoft.netcore.app.ref/8.0.28/microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "/home/anish07/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "/home/anish07/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.28/microsoft.netcore.app.host.linux-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp12_list/bin/Debug/net8.0/ConsoleApp12_list
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp12_list/bin/Debug/net8.0/ConsoleApp12_list.deps.json
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp12_list/bin/Debug/net8.0/ConsoleApp12_list.runtimeconfig.json
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp12_list/bin/Debug/net8.0/ConsoleApp12_list.dll
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp12_list/bin/Debug/net8.0/ConsoleApp12_list.pdb
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp12_list/obj/Debug/net8.0/ConsoleApp12_list.GeneratedMSBuildEditorConfig.editorconfig
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp12_list/obj/Debug/net8.0/ConsoleApp12_list.AssemblyInfoInputs.cache
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp12_list/obj/Debug/net8.0/ConsoleApp12_list.AssemblyInfo.cs
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp12_list/obj/Debug/net8.0/ConsoleApp12_list.csproj.CoreCompileInputs.cache
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp12_list/obj/Debug/net8.0/ConsoleApp12_list.dll
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp12_list/obj/Debug/net8.0/refint/ConsoleApp12_list.dll
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp12_list/obj/Debug/net8.0/ConsoleApp12_list.pdb
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp12_list/obj/Debug/net8.0/ConsoleApp12_list.genruntimeconfig.cache
+/home/anish07/CSIT/6TH SEM/C#/ConsoleApp12_list/obj/Debug/net8.0/ref/ConsoleApp12_list.dll

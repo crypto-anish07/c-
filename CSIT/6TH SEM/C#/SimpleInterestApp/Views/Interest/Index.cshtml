@@ -1,0 +1,12 @@
+@model SimpleInterestApp.Models.SimpleInterest
+<h2>Simple Interest Calculator</h2>
+<form method="post">
+    <p>Principal: <input asp-for="Principal" /></p>
+    <p>Rate (%): <input asp-for="Rate" /></p>
+    <p>Time (years): <input asp-for="Time" /></p>
+    <button type="submit">Calculate</button>
+</form>
+@if (Model.Result > 0)
+{
+    <h3>Interest = @Model.Result</h3>
+}

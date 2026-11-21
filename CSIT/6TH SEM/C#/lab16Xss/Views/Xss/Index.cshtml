@@ -1,0 +1,8 @@
+﻿<h2>XSS Demo - Comment Box</h2>
+<form asp-action="Index" method="post">
+    <label>Enter a comment:</label><br />
+    <textarea name="comment" rows="4" cols="40"></textarea><br />
+    <button type="submit">Submit</button>
+</form>
+
+<p>Try entering: &lt;script&gt;alert('XSS Attack!')&lt;/script&gt;</p>

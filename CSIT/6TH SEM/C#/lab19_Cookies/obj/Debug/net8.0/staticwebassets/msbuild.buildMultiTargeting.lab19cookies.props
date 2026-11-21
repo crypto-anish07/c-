@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/lab19cookies.props" />
+</Project>
